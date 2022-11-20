@@ -23,6 +23,7 @@ public class Media<T> {
             }
         }
     }
+    // this is new comment
 
     public static void main(String[] args) {
         Media<Book> media1 = new Media<>(new Book("Harry"));
