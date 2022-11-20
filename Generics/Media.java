@@ -17,7 +17,7 @@ public class Media <T>{
 
     void showData()
     {
-       for (T t:lst)
+       for (T a:lst)
        {
            Book bk=null;
            Video vd=null;
